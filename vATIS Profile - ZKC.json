@@ -2,7 +2,7 @@
   "name": "ZKC",
   "id": "3ec35fc6-c4a0-40af-b3db-f4c392aa99e1",
   "updateUrl": "https://raw.githubusercontent.com/ZKCFE/ZKC-vATIS/refs/heads/main/vATIS%20Profile%20-%20ZKC.json",
-  "updateSerial": 2025051501,
+  "updateSerial": 2025051601,
   "stations": [
     {
       "id": "9af27adf-39b6-496b-a1b7-a5ba278ebb6c",
@@ -16171,29 +16171,13 @@
       ],
       "contractions": [
         {
-          "variableName": "READBACK",
-          "text": "READBACK",
-          "voice": "REED BACK"
-        },
-        {
           "variableName": "RNAV",
           "text": "RNAV",
           "voice": "ARE NAV"
         }
       ],
       "airportConditionDefinitions": [],
-      "notamDefinitions": [
-        {
-          "text": "ARRIVALS AND DEPARTURES CTC STL APPROACH ON 132.125.",
-          "ordinal": 1,
-          "enabled": true
-        },
-        {
-          "text": "ARRIVALS AND DEPARTURES CTC KC CENTER ON 125.725.",
-          "ordinal": 2,
-          "enabled": false
-        }
-      ]
+      "notamDefinitions": []
     },
     {
       "id": "aba6cf37-92b4-4d90-9380-6c838811c188",
