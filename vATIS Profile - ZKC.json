@@ -2,7 +2,7 @@
   "name": "ZKC",
   "id": "3ec35fc6-c4a0-40af-b3db-f4c392aa99e1",
   "updateUrl": "https://raw.githubusercontent.com/ZKCFE/ZKC-vATIS/refs/heads/main/vATIS%20Profile%20-%20ZKC.json",
-  "updateSerial": 2025052101,
+  "updateSerial": 2025052201,
   "stations": [
     {
       "id": "9af27adf-39b6-496b-a1b7-a5ba278ebb6c",
@@ -26022,7 +26022,7 @@
           "id": "d447f900-c734-4bfd-b2a6-de5faea1751f",
           "ordinal": 0,
           "name": "NORTH VIS",
-          "airportConditions": "VISUAL APCHS IN USE RWY 2 AND ^32 IN USE. LDG AND DEPTG RWY 2 AND ^32.",
+          "airportConditions": "VISUAL APCHS RWY 2 AND ^32 IN USE. LDG AND DEPTG RWY 2 AND ^32.",
           "template": "[FACILITY] ATIS INFO [ATIS_CODE] [TIME]. [WX]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
             "enabled": false
@@ -26042,7 +26042,7 @@
           "id": "e2c3b3c3-597b-4986-b199-9256c8991994",
           "ordinal": 2,
           "name": "SOUTH VIS",
-          "airportConditions": "VISUAL APCHS IN USE RWY 14 AND ^20 IN USE. LDG AND DEPTG RWY 14 AND ^20.",
+          "airportConditions": "VISUAL APCHS RWY 14 AND ^20 IN USE. LDG AND DEPTG RWY 14 AND ^20.",
           "template": "[FACILITY] ATIS INFO [ATIS_CODE] [TIME]. [WX]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
             "enabled": false
@@ -26052,7 +26052,7 @@
           "id": "fae4786e-b87c-4993-bc5f-6e7e588d957f",
           "ordinal": 3,
           "name": "SOUTH IMC",
-          "airportConditions": "ILS APCH RWY 14 IN USES. LDG AND DEPTG RWY 14.",
+          "airportConditions": "ILS APCH RWY 14 IN USE. LDG AND DEPTG RWY 14.",
           "template": "[FACILITY] ATIS INFO [ATIS_CODE] [TIME]. [WX]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
             "enabled": false
