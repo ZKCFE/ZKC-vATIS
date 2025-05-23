@@ -1,8 +1,8 @@
 {
   "name": "ZKC",
-  "id": "3ec35fc6-c4a0-40af-b3db-f4c392aa99e1",
+  "id": "4a480b47-a13f-4362-a5c6-0ab4a6a7c548",
   "updateUrl": "https://raw.githubusercontent.com/ZKCFE/ZKC-vATIS/refs/heads/main/vATIS%20Profile%20-%20ZKC.json",
-  "updateSerial": 2025052201,
+  "updateSerial": 2025052301,
   "stations": [
     {
       "id": "9af27adf-39b6-496b-a1b7-a5ba278ebb6c",
@@ -27963,7 +27963,7 @@
           "id": "2d16c954-c83f-4b4b-ae99-777937944710",
           "ordinal": 0,
           "name": "NORTH VIS",
-          "airportConditions": "VISUAL APCH IN USE RWY 2 IN USE. LDG AND DEPTG RWY 2.",
+          "airportConditions": "VISUAL APCH RWY 2 IN USE. LDG AND DEPTG RWY 2.",
           "template": "[FACILITY] ATIS INFO [ATIS_CODE] [TIME]. [WX]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
             "enabled": false
@@ -31904,7 +31904,7 @@
           "id": "f724dc74-2c6a-43a4-9f7a-2f93a2f9c99f",
           "ordinal": 0,
           "name": "NORTH VIS",
-          "airportConditions": "VISUAL APCHS IN USE RWY 1R, RWY 1L IN USE. PARL APCHS IN USE. LDG AND DEPTG RWYS 1R AND ^1L.",
+          "airportConditions": "VISUAL APCHS RWY 1R, RWY 1L IN USE. PARL APCHS IN USE. LDG AND DEPTG RWYS 1R AND ^1L.",
           "notams": "",
           "template": "[FACILITY] ATIS INFO [ATIS_CODE] [TIME]. [WX]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
