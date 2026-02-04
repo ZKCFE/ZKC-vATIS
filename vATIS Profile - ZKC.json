@@ -2,7 +2,7 @@
   "name": "ZKC",
   "id": "4a480b47-a13f-4362-a5c6-0ab4a6a7c548",
   "updateUrl": "https://raw.githubusercontent.com/ZKCFE/ZKC-vATIS/refs/heads/main/vATIS%20Profile%20-%20ZKC.json",
-  "updateSerial": 2026020405,
+  "updateSerial": 2026020406,
   "stations": [
     {
       "id": "9af27adf-39b6-496b-a1b7-a5ba278ebb6c",
@@ -1968,7 +1968,7 @@
           "id": "3a1a1690-e215-4dde-b011-2a8848417ab2",
           "ordinal": 3,
           "name": "NORTH VIS",
-          "airportConditions": "VISUAL APCH RWY 1R IN USE. DEPTG RWY 1R.",
+          "airportConditions": "VISUAL APCHS RWY 1R, 1L IN USE. DEPTG RWY 1R & ^1L.",
           "notams": "",
           "template": "[FACILITY] ATIS INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
@@ -35875,6 +35875,7 @@
   "version": 4
 
 }
+
 
 
 
