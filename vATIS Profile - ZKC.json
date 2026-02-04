@@ -2,7 +2,7 @@
   "name": "ZKC",
   "id": "4a480b47-a13f-4362-a5c6-0ab4a6a7c548",
   "updateUrl": "https://raw.githubusercontent.com/ZKCFE/ZKC-vATIS/refs/heads/main/vATIS%20Profile%20-%20ZKC.json",
-  "updateSerial": 2026020404,
+  "updateSerial": 2026020405,
   "stations": [
     {
       "id": "9af27adf-39b6-496b-a1b7-a5ba278ebb6c",
@@ -35875,6 +35875,7 @@
   "version": 4
 
 }
+
 
 
 
