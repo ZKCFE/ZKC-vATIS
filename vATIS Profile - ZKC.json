@@ -2,7 +2,7 @@
   "name": "ZKC",
   "id": "4a480b47-a13f-4362-a5c6-0ab4a6a7c548",
   "updateUrl": "https://raw.githubusercontent.com/ZKCFE/ZKC-vATIS/refs/heads/main/vATIS%20Profile%20-%20ZKC.json",
-  "updateSerial": 2026020406,
+  "updateSerial": 2026020408,
   "stations": [
     {
       "id": "9af27adf-39b6-496b-a1b7-a5ba278ebb6c",
@@ -1946,7 +1946,7 @@
           "id": "8ef1e27c-02e0-4112-a50e-c4a62e220ac0",
           "ordinal": 1,
           "name": "SOUTH VIS",
-          "airportConditions": "VISUAL APCH RWY 19L IN USE. DEPTG RWY 19L.",
+          "airportConditions": "VISUAL APCHS RWY 19L, 19R IN USE. DEPTG RWY 19L & ^19r.",
           "notams": "",
           "template": "[FACILITY] ATIS INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
@@ -1957,7 +1957,7 @@
           "id": "a811feb7-b227-4777-bbd6-94cb3a2cfcf4",
           "ordinal": 2,
           "name": "SOUTH IMC",
-          "airportConditions": "ILS APCH RWY 19L IN USE. DEPTG RWY 19L.",
+          "airportConditions": "ILS APCHS RWY 19L, 19R IN USE. DEPTG RWY 19L & ^19R.",
           "notams": "",
           "template": "[FACILITY] ATIS INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
@@ -1979,7 +1979,7 @@
           "id": "812ceca2-0fd3-44dd-9958-d94c27540fa0",
           "ordinal": 4,
           "name": "NORTH IMC",
-          "airportConditions": "ILS APCH RWY 1R IN USE. DEPTG RWY 1R.",
+          "airportConditions": "ILS APCHs RWY 1R, 1L IN USE. DEPTG RWY 1R & ^1L.",
           "notams": "",
           "template": "[FACILITY] ATIS INFO [ATIS_CODE] [OBS_TIME]. [FULL_WX_STRING]. [ARPT_COND] [NOTAMS]",
           "externalGenerator": {
@@ -2063,12 +2063,12 @@
         {
           "text": "USE CAUTION, TAXIWAY AND RAMP CONSTRUCTION IN PROGRESS.",
           "ordinal": 4,
-          "enabled": true
+          "enabled": false
         },
         {
           "text": "RWY 19R, ^1L CLSD",
           "ordinal": 5,
-          "enabled": true
+          "enabled": false
         }
       ]
     },
@@ -35875,6 +35875,7 @@
   "version": 4
 
 }
+
 
 
 
